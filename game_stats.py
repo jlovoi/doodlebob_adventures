@@ -13,3 +13,4 @@ class GameStats():
 		"""Statistics that can change during the game"""
 		self.lives_left = self.settings.life_limit
 
+#FUCK
